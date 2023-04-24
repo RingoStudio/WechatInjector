@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <BaseOutputPath>D:\Projects\RSRobot\RSvBot\RSvBot\bin</BaseOutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyVersion>1.0.0.23108</AssemblyVersion>
+    <FileVersion>1.0.0.23108</FileVersion>
+  </PropertyGroup>
+
+</Project>

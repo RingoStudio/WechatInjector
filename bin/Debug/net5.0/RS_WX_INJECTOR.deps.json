@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RS_WX_INJECTOR/1.0.0": {
+        "runtime": {
+          "RS_WX_INJECTOR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RS_WX_INJECTOR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
